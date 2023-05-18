@@ -1,9 +1,9 @@
 {
   "name": "headhesive-vite",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Vite-refreshed version of Headhesive.js providing an on-demand sticky header. Optimized and updated for modern JavaScript development.",
-  "main": "dist/headhesive-vite.js",
-  "types": "dist/headhesive-vite.d.ts",
+  "main": "dist/headhesive-vite.mjs",
+  "types": "dist/headhesive-vite.umd.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
